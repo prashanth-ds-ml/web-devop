@@ -12,3 +12,7 @@ Flask:
 Login page:
 
 1. https://www.youtube.com/watch?v=dam0GPOAvVI&t=59s&ab_channel=TechWithTim
+
+Bootstrap:
+
+1. https://getbootstrap.com/
